@@ -1,2 +1,2 @@
-<img width="1800" height="576" alt="alexsander_savio_github_banner png" src="https://github.com/user-attachments/assets/2447d642-8f7c-446f-95af-6473881de2d0" />
+<img width="1024" height="328" alt="alexsander_savio_github_banner_loading" src="https://github.com/user-attachments/assets/63754681-cfa8-4ccf-97ab-4ccb58d45c01" />
 # alexsandersavio
