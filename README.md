@@ -2,8 +2,13 @@
 
 
 
+
+
+
 Estudante de Engenharia de Software na UNICEPLAC, atualmente trabalhando em outra área mas querendo atuar como estagiário, jovem aprendiz ou contratado para ingressar área de TI!
 Meu objetivo é me tornar um desenvolvedor Web Backend. O caminho é abrangente, aos poucos contruíndo minha carreira!
+
+
 
 
 
